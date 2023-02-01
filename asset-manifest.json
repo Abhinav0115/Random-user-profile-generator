@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Random-user-profile-generator/static/css/main.12308535.css",
+    "main.js": "/Random-user-profile-generator/static/js/main.810e6e30.js",
+    "static/js/787.153bfb55.chunk.js": "/Random-user-profile-generator/static/js/787.153bfb55.chunk.js",
+    "index.html": "/Random-user-profile-generator/index.html",
+    "main.12308535.css.map": "/Random-user-profile-generator/static/css/main.12308535.css.map",
+    "main.810e6e30.js.map": "/Random-user-profile-generator/static/js/main.810e6e30.js.map",
+    "787.153bfb55.chunk.js.map": "/Random-user-profile-generator/static/js/787.153bfb55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12308535.css",
+    "static/js/main.810e6e30.js"
+  ]
+}
